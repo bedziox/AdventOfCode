@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode._2024.D2
+﻿namespace AdventOfCode._2024
 {
     public sealed class Day2
     {
