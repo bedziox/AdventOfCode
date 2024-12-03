@@ -1,6 +1,6 @@
 ﻿namespace AdventOfCode._2024
 {
-    public class Day1
+    public sealed class Day1
     {
         List<int> left = new();
         List<int> right = new();
